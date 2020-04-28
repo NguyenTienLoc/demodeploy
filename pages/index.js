@@ -1,6 +1,6 @@
 const Index = () => (
     <div>
-      <p>Hello World!</p>
+      <p>Hello World! ahihi</p>
     </div>
     )
 export default Index
